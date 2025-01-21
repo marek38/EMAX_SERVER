@@ -1,3 +1,3 @@
 name = "emax-websocket"
-main = "src/index.js"  # Ak je váš hlavný súbor Workera `src/index.js`
+main = "server.js"  # Ak je váš hlavný súbor Workera `src/index.js`
 compatibility_date = "2025-01-21"
